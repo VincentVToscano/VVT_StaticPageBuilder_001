@@ -1,0 +1,14 @@
+{
+  "http_status_code_401":{
+	"meta":{
+	  "title":"Error 403 - Access Forbidden",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/403",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">Access to the URL that you requested, is forbidden. Your browser is able to connect to the website, but you do not have permission to display the webpage. Most likely you received this error because you are not allowed to view this directory.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Please check that you have entered the address correctly paying close attention to CaSe and spelling. If the address is typed correctly, contact the administrator to gain access to this directory or page.<\/p>"
+  }
+}

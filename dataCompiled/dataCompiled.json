@@ -1,0 +1,117 @@
+{
+  "about":{
+	"meta":{
+	  "title":"About | Vincent V. Toscano",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "canonical":"http://vflux.biz/about",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"about us keywords here"
+	},
+	"heading1":"Welcome to About Vincent V. Toscano",
+	"heading2":"Static Page Builder",
+	"heading2Body":"This is a sample static web site builder created to use JSON, partials, and full templates.",
+	"articles":[
+	  {
+		"title":"Today&apos;s The Day",
+		"body":"Enjoy this static page builder. Use HTML5, CSS3 and JavaScript to develop your pages as normal."
+	  },
+	  {
+		"title":"Up and Onward",
+		"body":"Vincent works as the Director of DevOps."
+	  }
+	]
+  }
+,
+  "global":{
+	"meta":{
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonicalBase":"http://vflux.biz/",
+	  "og_site_name":"og_site_name",
+	  "img_TM_300x300":"assets/imgs/global/img_TM_300x300",
+	  "img_TM_310x310":"assets/imgs/global/img_TM_310x310",
+	  "img_iconBase":"assets/imgs/global/"
+	}
+  }
+,
+  "http_status_code_400":{
+	"meta":{
+	  "title":"Error 400 - Bad Request",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/400",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">We are sorry but the page you are looking for cannot be found.<\/p><p class=\"errorHTTP_copy\">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.This status code is commonly used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Please check that you have entered the address correctly paying close attention to CaSe and spelling. If this error was brought on by clicking a link, it could be out of date and no longer available on the website.<\/p>"
+  }
+,
+  "http_status_code_401":{
+	"meta":{
+	  "title":"Error 401 - Authorization Required",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/401",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">The URL that you requested, requires pre-authorization to access (username and password). Your browser was able to connect to the website, but your authorization has failed.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Try to re-enter the authorization information again. Please check that you have entered the address, username and password correctly paying close attention to CaSe and spelling.<\/p>"
+  }
+,
+  "http_status_code_401":{
+	"meta":{
+	  "title":"Error 403 - Access Forbidden",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/403",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">Access to the URL that you requested, is forbidden. Your browser is able to connect to the website, but you do not have permission to display the webpage. Most likely you received this error because you are not allowed to view this directory.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Please check that you have entered the address correctly paying close attention to CaSe and spelling. If the address is typed correctly, contact the administrator to gain access to this directory or page.<\/p>"
+  }
+,
+  "http_status_code_404":{
+	"meta":{
+	  "title":"Error 404 - Page Not Found",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/404",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">We are sorry but the page you are looking for cannot be found.<\/p><p class=\"errorHTTP_copy\">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.This status code is commonly used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Please check that you have entered the address correctly paying close attention to CaSe and spelling. If this error was brought on by clicking a link, it could be out of date and no longer available on the website.<\/p>"
+  }
+,
+  "500":{
+	"meta":{
+	  "title":"Error 500 - Server Configuration Error",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/500",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">The server failed to fulfill an apparently valid request. This error is usually brought on by server maintenance.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Unfortunately, this is a problem with the website, and there isn&lsquo;t anything you can do. Try again later to see if the problem has been corrected.<\/p>"
+  }
+,
+  "index":{
+	"meta":{
+	  "title":"Home | Vincent V. Toscano",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "canonical":"http://vflux.biz",
+	  "desc":"This is an example of a static webpage builder created by Vincent V. Toscano, to use JSON, partials, and full templates. I built this with a combination of tools that I&#8217;ve been using for sometime. The JSON files are first concatenated into one JSON file, then the selected template/s are are processed. Each template and partial uses the Handlebars template library to format the templates. Once processed, templating libraries are not required to operate the webpage, thus relieving the need to download (or make a request for) another asset from the server or CDN. Please visit http:\/\/vflux.biz if you want to see my portfolio of professional work as a Director of DevOps.",
+	  "keywords":"about us keywords here"
+	},
+	"heading1":"Welcome to Vincent V. Toscano&#8217;s repository dealing with static page building.",
+	"heading2":"Phone Home",
+	"body":"This is an example of a static webpage builder created by Vincent V. Toscano, to use JSON, partials, and full templates. I built this with a combination of tools that I&#8217;ve been using for sometime. The JSON files are first concatenated into one JSON file, then the selected template/s are are processed. Each template and partial uses the Handlebars template library to format the templates. Once processed, templating libraries are not required to operate the webpage, thus relieving the need to download (or make a request for) another asset from the server or CDN. Please visit <a href=\"http:\/\/vflux.biz\">http://vflux.biz</a> if you want to see my portfolio of professional work as a Director of DevOps."
+  }
+}

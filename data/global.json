@@ -1,0 +1,14 @@
+{
+  "global":{
+	"meta":{
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonicalBase":"http://vflux.biz/",
+	  "og_site_name":"og_site_name",
+	  "img_TM_300x300":"assets/imgs/global/img_TM_300x300",
+	  "img_TM_310x310":"assets/imgs/global/img_TM_310x310",
+	  "img_iconBase":"assets/imgs/global/"
+	}
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "500":{
+	"meta":{
+	  "title":"Error 500 - Server Configuration Error",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/500",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">The server failed to fulfill an apparently valid request. This error is usually brought on by server maintenance.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Unfortunately, this is a problem with the website, and there isn&lsquo;t anything you can do. Try again later to see if the problem has been corrected.<\/p>"
+  }
+}

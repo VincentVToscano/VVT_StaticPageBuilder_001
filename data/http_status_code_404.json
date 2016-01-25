@@ -1,0 +1,14 @@
+{
+  "http_status_code_404":{
+	"meta":{
+	  "title":"Error 404 - Page Not Found",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/404",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">We are sorry but the page you are looking for cannot be found.<\/p><p class=\"errorHTTP_copy\">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.This status code is commonly used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Please check that you have entered the address correctly paying close attention to CaSe and spelling. If this error was brought on by clicking a link, it could be out of date and no longer available on the website.<\/p>"
+  }
+}

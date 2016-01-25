@@ -1,0 +1,14 @@
+{
+  "http_status_code_401":{
+	"meta":{
+	  "title":"Error 401 - Authorization Required",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "company":"Vincent V. Toscano",
+	  "canonical":"http://vflux.biz/401",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"HTTP Error"
+	},
+	"body":"<p class=\"errorHTTP_copy\">The URL that you requested, requires pre-authorization to access (username and password). Your browser was able to connect to the website, but your authorization has failed.<\/p><h3>Action to take:<\/h3><p class=\"errorHTTP_copy\">Try to re-enter the authorization information again. Please check that you have entered the address, username and password correctly paying close attention to CaSe and spelling.<\/p>"
+  }
+}

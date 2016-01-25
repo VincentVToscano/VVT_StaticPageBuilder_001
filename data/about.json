@@ -1,0 +1,25 @@
+{
+  "about":{
+	"meta":{
+	  "title":"About | Vincent V. Toscano",
+	  "changefreq":"weekly",
+	  "priority":0.5,
+	  "canonical":"http://vflux.biz/about",
+	  "desc":"This is an example description related to static page building.",
+	  "keywords":"about us keywords here"
+	},
+	"heading1":"Welcome to About Vincent V. Toscano",
+	"heading2":"Static Page Builder",
+	"heading2Body":"This is a sample static web site builder created to use JSON, partials, and full templates.",
+	"articles":[
+	  {
+		"title":"Today&apos;s The Day",
+		"body":"Enjoy this static page builder. Use HTML5, CSS3 and JavaScript to develop your pages as normal."
+	  },
+	  {
+		"title":"Up and Onward",
+		"body":"Vincent works as the Director of DevOps."
+	  }
+	]
+  }
+}

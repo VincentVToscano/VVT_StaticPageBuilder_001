@@ -1,0 +1,20 @@
+{{#with dataCompiled.DYNAMIC_PAGE_NAME_HERE}}
+	<div id="DYNAMIC_PAGE_NAME_HERE" class="view" role="main">
+		<article>
+			<h1>{{heading1}}</h1>
+			<section>
+				<h2>{{heading2}}</h2>
+				<p>{{heading2Body}}</p>
+			</section>
+		</article>
+
+		{{#each articles}}
+			<article>
+				<h1>{{{title}}}</h1>
+				<section>
+					{{{body}}}
+				</section>
+			</article>
+		{{/each}}
+	</div>
+{{/with}}

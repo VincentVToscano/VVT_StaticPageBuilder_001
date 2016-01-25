@@ -1,0 +1,50 @@
+{
+  "name": "vvt_staticpagebuilder_001",
+  "version": "1.0.0",
+  "description": "This is an example of a static webpage builder created by Vincent V. Toscano, to use JSON, partials, and full templates.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp": "^3.9.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-shell": "^0.4.3",
+    "gulp-run": "^1.6.11",
+    "json-concat": "^0.0.0",
+    "yargs": "^3.32.0",
+    "gulp-hb": "^2.6.5",
+    "run-sequence": "^1.1.5",
+    "gulp-inject": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentVToscano/VVT_StaticPageBuilder_001.git"
+  },
+  "keywords": [
+    "static",
+    "web",
+    "page",
+    "builder",
+    "static",
+    "webpage",
+    "builder",
+    "static",
+    "website",
+    "generator",
+    "static",
+    "website",
+    "static",
+    "web",
+    "site"
+  ],
+  "author": "Vincent V. Toscano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VincentVToscano/VVT_StaticPageBuilder_001/issues"
+  },
+  "homepage": "https://github.com/VincentVToscano/VVT_StaticPageBuilder_001#readme"
+}
