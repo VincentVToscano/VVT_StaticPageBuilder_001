@@ -11,7 +11,7 @@ var hb          = require('gulp-hb');                   // npm install --save-de
 var jsonConcat  = require("json-concat");               // npm install --save-dev json-concat
 var runSequence = require('run-sequence');              // npm install --save-dev run-sequence
 var replace     = require('gulp-replace');              // npm install --save-dev gulp-replace
-var shell          = require('gulp-shell');             // npm install --save-dev gulp-shell
+var shell       = require('gulp-shell');                // npm install --save-dev gulp-shell
 // ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 // Install Project Commands
 // ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
